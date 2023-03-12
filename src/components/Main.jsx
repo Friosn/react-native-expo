@@ -1,6 +1,7 @@
 import React from 'react';
 import Constants from 'expo-constants';
 import { Text, View } from 'react-native';
+import { Link, Route, Redirect } from 'react-router-native';
 
 const Main = () => {
   return (

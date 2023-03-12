@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
   },
 });
 
-export default function StyleSheet({
+export default function StyleText({
   children,
   fontSize,
   fontWeight,
